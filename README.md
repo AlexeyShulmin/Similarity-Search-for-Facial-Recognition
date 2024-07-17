@@ -1,1 +1,1 @@
-# Similarity-Search-for-Facial-Recognition
+# Similarity Search for Facial Recognition
